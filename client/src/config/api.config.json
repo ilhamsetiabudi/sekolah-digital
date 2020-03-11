@@ -1,0 +1,14 @@
+{
+    "BASE_URL": "http://localhost:3003/api",
+    "ENDPOINTS": {
+        "LOGIN": "/admin/login",
+        "SISWA": "/siswa",
+        "GURU": "/guru",
+        "MAPELX": "/mapelx"
+        
+    },
+    "LS": {
+        "USERDATA": "B159_USERDATA_KEY",
+        "TOKEN": "B159_TOKEN_KEY"
+    }
+}
